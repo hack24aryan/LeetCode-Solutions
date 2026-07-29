@@ -1,6 +1,6 @@
 # 2485. Find the Pivot Integer
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-the-pivot-integer/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-the-pivot-integer/)
 
 ---
 
@@ -57,9 +57,9 @@ Explanation: It can be proved that no such integer exist.
 
 | | |
 |---|---|
-| ⚡ **Runtime** | 0 ms |
-| 💾 **Memory** | 8.7 MB |
-| 🔤 **Language** | C |
+| ⚡ **Runtime** | N/A |
+| 💾 **Memory** | N/A |
+| 🔤 **Language** | Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0. |
 | 📅 **Submitted** | 29 Jul 2026 |
 
 ---

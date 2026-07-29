@@ -43,7 +43,7 @@ Every accepted submission in this repository automatically includes:
 | 🏆 **First Hard Problem Solved** | None yet |
 | 🧠 **Favorite / Top Topic** | **Math** (2 solved) |
 | 📅 **First Submission Recorded** | 29 Jul 2026 |
-| 🚀 **Latest Submission** | [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/) (29 Jul 2026) |
+| 🚀 **Latest Submission** | [#2485 Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) (29 Jul 2026) |
 
 ---
 
@@ -81,8 +81,8 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.2 MB` | 29 Jul 2026 |
-| 2 | [#2485 Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 29 Jul 2026 |
+| 1 | [#2485 Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 29 Jul 2026 |
+| 2 | [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.2 MB` | 29 Jul 2026 |
 
 ---
 
