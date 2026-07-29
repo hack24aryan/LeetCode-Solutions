@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-5-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-5_(100%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-6-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-6_(100%25)-00b8a3?style=for-the-badge" alt="Easy" />
   <img src="https://img.shields.io/badge/Medium-0_(0%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-0_(0%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | None yet |
-| 🧠 **Favorite / Top Topic** | **Array** (3 solved) |
+| 🧠 **Favorite / Top Topic** | **Array** (4 solved) |
 | 📅 **First Submission Recorded** | 29 Jul 2026 |
-| 🚀 **Latest Submission** | [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) (29 Jul 2026) |
+| 🚀 **Latest Submission** | [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/) (29 Jul 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 5 | 100% |
+| 🟢 **Easy** | 6 | 100% |
 | 🟡 **Medium** | 0 | 0% |
 | 🔴 **Hard** | 0 | 0% |
-| 🏆 **Total** | **5** | **100%** |
+| 🏆 **Total** | **6** | **100%** |
 
 <br/>
 
@@ -64,7 +64,7 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 5 | 100% |
+| **C** | 6 | 100% |
 
 <br/>
 
@@ -72,10 +72,13 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
-| **Array** | 3 |
+| **Array** | 4 |
 | **Math** | 2 |
 | **Prefix Sum** | 1 |
 | **Simulation** | 1 |
+| **Hash Table** | 1 |
+| **Bit Manipulation** | 1 |
+| **Sorting** | 1 |
 
 ---
 
@@ -83,11 +86,12 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.3 MB` | 29 Jul 2026 |
-| 2 | [#1470 Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `C` | ⚡ 10 ms | `12.4 MB` | 29 Jul 2026 |
-| 3 | [#1929 Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `C` | ⚡ 0 ms | `15.2 MB` | 29 Jul 2026 |
-| 4 | [#2485 Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 29 Jul 2026 |
-| 5 | [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.2 MB` | 29 Jul 2026 |
+| 1 | [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.7 MB` | 29 Jul 2026 |
+| 2 | [#485 Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.3 MB` | 29 Jul 2026 |
+| 3 | [#1470 Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | 🟢 Easy | `C` | ⚡ 10 ms | `12.4 MB` | 29 Jul 2026 |
+| 4 | [#1929 Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | 🟢 Easy | `C` | ⚡ 0 ms | `15.2 MB` | 29 Jul 2026 |
+| 5 | [#2485 Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 29 Jul 2026 |
+| 6 | [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.2 MB` | 29 Jul 2026 |
 
 ---
 
