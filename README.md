@@ -7,9 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-2-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-3-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
   <img src="https://img.shields.io/badge/Easy-0_(0%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-2_(100%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-3_(100%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-0_(0%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | None yet |
-| 🧠 **Favorite / Top Topic** | **Counting** (1 solved) |
+| 🧠 **Favorite / Top Topic** | **Array** (2 solved) |
 | 📅 **First Submission Recorded** | 31 Jul 2026 |
-| 🚀 **Latest Submission** | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) (02 Aug 2026) |
+| 🚀 **Latest Submission** | [#877 Stone Game](https://leetcode.com/problems/stone-game/) (03 Aug 2026) |
 
 ---
 
@@ -54,9 +54,9 @@ Every accepted submission in this repository automatically includes:
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
 | 🟢 **Easy** | 0 | 0% |
-| 🟡 **Medium** | 2 | 100% |
+| 🟡 **Medium** | 3 | 100% |
 | 🔴 **Hard** | 0 | 0% |
-| 🏆 **Total** | **2** | **100%** |
+| 🏆 **Total** | **3** | **100%** |
 
 <br/>
 
@@ -64,7 +64,7 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 2 | 100% |
+| **C** | 3 | 100% |
 
 <br/>
 
@@ -72,16 +72,16 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
+| **Array** | 2 |
+| **Dynamic Programming** | 2 |
+| **Game Theory** | 2 |
+| **Math** | 2 |
 | **Counting** | 1 |
 | **Greedy** | 1 |
 | **Hash Table** | 1 |
+| **Recursion** | 1 |
 | **Sorting** | 1 |
 | **String** | 1 |
-| **Array** | 1 |
-| **Math** | 1 |
-| **Dynamic Programming** | 1 |
-| **Recursion** | 1 |
-| **Game Theory** | 1 |
 
 ---
 
@@ -89,8 +89,9 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
-| 2 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
+| 1 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
+| 2 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
+| 3 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
 
 ---
 
@@ -100,6 +101,6 @@ Every accepted submission in this repository automatically includes:
 
 🚀 **Generated automatically by [LeetHub Tapash](https://github.com/topics/leethub-tapash)**  
 *Built with ❤️ for LeetCode developers.*  
-**Last Updated:** 02 Aug 2026
+**Last Updated:** 03 Aug 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
