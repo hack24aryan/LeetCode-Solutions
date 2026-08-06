@@ -7,9 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-12-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-7_(58%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-4_(33%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-13-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-8_(62%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-4_(31%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-1_(8%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -43,7 +43,7 @@ Every accepted submission in this repository automatically includes:
 | 🏆 **First Hard Problem Solved** | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) |
 | 🧠 **Favorite / Top Topic** | **Math** (6 solved) |
 | 📅 **First Submission Recorded** | 31 Jul 2026 |
-| 🚀 **Latest Submission** | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) (07 Aug 2026) |
+| 🚀 **Latest Submission** | [#595 Big Countries](https://leetcode.com/problems/big-countries/) (07 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 7 | 58% |
-| 🟡 **Medium** | 4 | 33% |
+| 🟢 **Easy** | 8 | 62% |
+| 🟡 **Medium** | 4 | 31% |
 | 🔴 **Hard** | 1 | 8% |
-| 🏆 **Total** | **12** | **100%** |
+| 🏆 **Total** | **13** | **100%** |
 
 <br/>
 
@@ -64,8 +64,8 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 9 | 75% |
-| **MySQL** | 2 | 17% |
+| **C** | 9 | 69% |
+| **MySQL** | 3 | 23% |
 | **C++** | 1 | 8% |
 
 <br/>
@@ -76,10 +76,10 @@ Every accepted submission in this repository automatically includes:
 | :--- | :---: |
 | **Math** | 6 |
 | **Array** | 5 |
+| **Database** | 3 |
 | **Dynamic Programming** | 3 |
 | **Game Theory** | 3 |
 | **Hash Table** | 3 |
-| **Database** | 2 |
 | **Sorting** | 2 |
 | **Breadth-First Search** | 1 |
 | **Counting** | 1 |
@@ -101,18 +101,19 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | `MySQL` | ⚡ 597 ms | `0B` | 07 Aug 2026 |
-| 2 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | `MySQL` | ⚡ 672 ms | `0B` | 07 Aug 2026 |
-| 3 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
-| 4 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
-| 5 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
-| 6 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
-| 7 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
-| 8 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
-| 9 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
-| 10 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
-| 11 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
-| 12 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
+| 1 | [#595 Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | `MySQL` | ⚡ 363 ms | `0B` | 07 Aug 2026 |
+| 2 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | `MySQL` | ⚡ 597 ms | `0B` | 07 Aug 2026 |
+| 3 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | `MySQL` | ⚡ 672 ms | `0B` | 07 Aug 2026 |
+| 4 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
+| 5 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
+| 6 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
+| 7 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
+| 8 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
+| 9 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
+| 10 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
+| 11 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
+| 12 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
+| 13 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
 
 ---
 
