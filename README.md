@@ -7,10 +7,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-9-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-4_(44%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-4_(44%25)-ffc01e?style=for-the-badge" alt="Medium" />
-  <img src="https://img.shields.io/badge/Hard-1_(11%25)-ef4743?style=for-the-badge" alt="Hard" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-10-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-5_(50%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-4_(40%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/Hard-1_(10%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) |
-| 🧠 **Favorite / Top Topic** | **Array** (5 solved) |
+| 🧠 **Favorite / Top Topic** | **Math** (6 solved) |
 | 📅 **First Submission Recorded** | 31 Jul 2026 |
-| 🚀 **Latest Submission** | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) (05 Aug 2026) |
+| 🚀 **Latest Submission** | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) (06 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 4 | 44% |
-| 🟡 **Medium** | 4 | 44% |
-| 🔴 **Hard** | 1 | 11% |
-| 🏆 **Total** | **9** | **100%** |
+| 🟢 **Easy** | 5 | 50% |
+| 🟡 **Medium** | 4 | 40% |
+| 🔴 **Hard** | 1 | 10% |
+| 🏆 **Total** | **10** | **100%** |
 
 <br/>
 
@@ -64,8 +64,8 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 8 | 89% |
-| **C++** | 1 | 11% |
+| **C** | 9 | 90% |
+| **C++** | 1 | 10% |
 
 <br/>
 
@@ -73,8 +73,8 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
+| **Math** | 6 |
 | **Array** | 5 |
-| **Math** | 5 |
 | **Dynamic Programming** | 3 |
 | **Game Theory** | 3 |
 | **Hash Table** | 3 |
@@ -91,6 +91,7 @@ Every accepted submission in this repository automatically includes:
 | **String** | 1 |
 | **Two Pointers** | 1 |
 | **Zero-Sum Game** | 1 |
+| **Enumeration** | 1 |
 
 ---
 
@@ -98,15 +99,16 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
-| 2 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
-| 3 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
-| 4 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
-| 5 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
-| 6 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
-| 7 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
-| 8 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
-| 9 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
+| 1 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
+| 2 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
+| 3 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
+| 4 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
+| 5 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
+| 6 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
+| 7 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
+| 8 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
+| 9 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
+| 10 | [#3016 Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | 🟡 Medium | `C` | ⚡ 14 ms | `13.5 MB` | 31 Jul 2026 |
 
 ---
 
@@ -116,6 +118,6 @@ Every accepted submission in this repository automatically includes:
 
 🚀 **Generated automatically by [LeetHub Tapash](https://github.com/topics/leethub-tapash)**  
 *Built with ❤️ for LeetCode developers.*  
-**Last Updated:** 05 Aug 2026
+**Last Updated:** 06 Aug 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
