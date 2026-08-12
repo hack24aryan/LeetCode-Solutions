@@ -7,10 +7,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-16-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-9_(56%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-5_(31%25)-ffc01e?style=for-the-badge" alt="Medium" />
-  <img src="https://img.shields.io/badge/Hard-2_(13%25)-ef4743?style=for-the-badge" alt="Hard" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-17-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-9_(53%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-6_(35%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/Hard-2_(12%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | [#3348 Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) |
-| 🧠 **Favorite / Top Topic** | **Math** (8 solved) |
+| 🧠 **Favorite / Top Topic** | **Array** (8 solved) |
 | 📅 **First Submission Recorded** | 31 Jul 2026 |
-| 🚀 **Latest Submission** | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) (11 Aug 2026) |
+| 🚀 **Latest Submission** | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) (13 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 9 | 56% |
-| 🟡 **Medium** | 5 | 31% |
-| 🔴 **Hard** | 2 | 13% |
-| 🏆 **Total** | **16** | **100%** |
+| 🟢 **Easy** | 9 | 53% |
+| 🟡 **Medium** | 6 | 35% |
+| 🔴 **Hard** | 2 | 12% |
+| 🏆 **Total** | **17** | **100%** |
 
 <br/>
 
@@ -64,9 +64,10 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 11 | 69% |
-| **MySQL** | 3 | 19% |
-| **C++** | 2 | 13% |
+| **C** | 11 | 65% |
+| **MySQL** | 3 | 18% |
+| **C++** | 2 | 12% |
+| **Python** | 1 | 6% |
 
 <br/>
 
@@ -74,11 +75,11 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
+| **Array** | 8 |
 | **Math** | 8 |
-| **Array** | 7 |
+| **Hash Table** | 5 |
 | **Dynamic Programming** | 4 |
 | **Game Theory** | 4 |
-| **Hash Table** | 4 |
 | **Database** | 3 |
 | **Sorting** | 3 |
 | **Greedy** | 2 |
@@ -96,6 +97,7 @@ Every accepted submission in this repository automatically includes:
 | **Number Theory** | 1 |
 | **Recursion** | 1 |
 | **Two Pointers** | 1 |
+| **Sliding Window** | 1 |
 
 ---
 
@@ -103,21 +105,21 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.5 MB` | 11 Aug 2026 |
-| 2 | [#1140 Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | `C` | ⚡ 2 ms | `10.5 MB` | 09 Aug 2026 |
-| 3 | [#3348 Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | `C++` | ⚡ 54 ms | `52.6 MB` | 07 Aug 2026 |
-| 4 | [#595 Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | `MySQL` | ⚡ 363 ms | `0B` | 07 Aug 2026 |
-| 5 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | `MySQL` | ⚡ 597 ms | `0B` | 07 Aug 2026 |
-| 6 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | `MySQL` | ⚡ 672 ms | `0B` | 07 Aug 2026 |
-| 7 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
-| 8 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
-| 9 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
-| 10 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
-| 11 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
-| 12 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
-| 13 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
-| 14 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
-| 15 | [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | 🟡 Medium | `C` | ⚡ 0 ms | `8.6 MB` | 02 Aug 2026 |
+| 1 | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | 🟡 Medium | `Python` | ⚡ 317 ms | `21.4 MB` | 13 Aug 2026 |
+| 2 | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.5 MB` | 11 Aug 2026 |
+| 3 | [#1140 Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | `C` | ⚡ 2 ms | `10.5 MB` | 09 Aug 2026 |
+| 4 | [#3348 Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | `C++` | ⚡ 54 ms | `52.6 MB` | 07 Aug 2026 |
+| 5 | [#595 Big Countries](https://leetcode.com/problems/big-countries/) | 🟢 Easy | `MySQL` | ⚡ 363 ms | `0B` | 07 Aug 2026 |
+| 6 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | `MySQL` | ⚡ 597 ms | `0B` | 07 Aug 2026 |
+| 7 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | 🟢 Easy | `MySQL` | ⚡ 672 ms | `0B` | 07 Aug 2026 |
+| 8 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
+| 9 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | `C++` | ⚡ 174 ms | `301.2 MB` | 05 Aug 2026 |
+| 10 | [#1716 Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.7 MB` | 04 Aug 2026 |
+| 11 | [#3731 Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | `C` | ⚡ 0 ms | `13.8 MB` | 04 Aug 2026 |
+| 12 | [#1406 Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | `C` | ⚡ 15 ms | `21.7 MB` | 04 Aug 2026 |
+| 13 | [#202 Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.3 MB` | 03 Aug 2026 |
+| 14 | [#2574 Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | 🟢 Easy | `C` | ⚡ 0 ms | `14.4 MB` | 03 Aug 2026 |
+| 15 | [#877 Stone Game](https://leetcode.com/problems/stone-game/) | 🟡 Medium | `C` | ⚡ 6 ms | `17.3 MB` | 03 Aug 2026 |
 
 ---
 
@@ -127,6 +129,6 @@ Every accepted submission in this repository automatically includes:
 
 🚀 **Generated automatically by [LeetHub Tapash](https://github.com/topics/leethub-tapash)**  
 *Built with ❤️ for LeetCode developers.*  
-**Last Updated:** 11 Aug 2026
+**Last Updated:** 13 Aug 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
