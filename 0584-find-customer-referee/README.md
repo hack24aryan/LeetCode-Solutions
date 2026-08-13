@@ -1,6 +1,6 @@
 # 584. Find Customer Referee
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-customer-referee/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-customer-referee/submissions/2097230749/)
 
 ---
 
@@ -72,7 +72,7 @@ Output:
 
 | | |
 |---|---|
-| ⚡ **Runtime** | 597 ms |
+| ⚡ **Runtime** | 601 ms |
 | 💾 **Memory** | 0B |
 | 🔤 **Language** | MySQL |
 | 📅 **Submitted** | 07 Aug 2026 |
