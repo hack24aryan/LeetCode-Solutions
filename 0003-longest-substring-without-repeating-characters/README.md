@@ -1,6 +1,6 @@
 # 3. Longest Substring Without Repeating Characters
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2087383985/)
 
 ---
 
@@ -57,8 +57,8 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 | | |
 |---|---|
-| ⚡ **Runtime** | 19 ms |
-| 💾 **Memory** | 12.6 MB |
+| ⚡ **Runtime** | 14 ms |
+| 💾 **Memory** | 12.5 MB |
 | 🔤 **Language** | C |
 | 📅 **Submitted** | 30 Jul 2026 |
 
