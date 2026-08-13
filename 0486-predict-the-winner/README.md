@@ -1,6 +1,6 @@
 # 486. Predict the Winner
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/predict-the-winner/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/predict-the-winner/submissions/2090609152/)
 
 ---
 
@@ -50,7 +50,9 @@ Finally, player 1 has more score (234) than player 2 (12), so you need to return
 - Math
 - Dynamic Programming
 - Recursion
+- Minimax
 - Game Theory
+- Zero-Sum Game
 
 ---
 
