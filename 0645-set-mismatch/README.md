@@ -1,6 +1,6 @@
 # 645. Set Mismatch
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/set-mismatch/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/set-mismatch/submissions/2085933405/)
 
 ---
 
