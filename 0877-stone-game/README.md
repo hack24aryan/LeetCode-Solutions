@@ -1,6 +1,6 @@
 # 877. Stone Game
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game/submissions/2091827650/)
 
 ---
 
@@ -55,7 +55,9 @@ Output: true
 - Array
 - Math
 - Dynamic Programming
+- Minimax
 - Game Theory
+- Zero-Sum Game
 
 ---
 
