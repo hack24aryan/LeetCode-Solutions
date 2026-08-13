@@ -1,6 +1,6 @@
 # 1406. Stone Game III
 
-🔴 Hard &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game-iii/)
+🔴 Hard &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game-iii/submissions/2093148749/)
 
 ---
 
