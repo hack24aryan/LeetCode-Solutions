@@ -1,6 +1,6 @@
 # 2958. Length of Longest Subarray With at Most K Frequency
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104696385/)
 
 ---
 

@@ -1,24 +1,24 @@
-        j = 0
-        result = 0
+class Solution:
+    def maxSubarrayLength(self, nums, k):
+        freq = {}
 
-        while j < len(nums):
+        i = 0
+        j = 0
+        result = 0
 
-            freq[nums[j]] = freq.get(nums[j], 0) + 1
+        while j < len(nums):
 
-            while freq[nums[j]] > k:
-                freq[nums[i]] -= 1
-                i += 1
+            freq[nums[j]] = freq.get(nums[j], 0) + 1
 
-            length = j - i + 1
+            while freq[nums[j]] > k:
+                freq[nums[i]] -= 1
+                i += 1
 
-            if length > result:
-                result = length
+            length = j - i + 1
 
-            j += 1
-        i = 0
+            if length > result:
+                result = length
 
-        freq = {}
-class Solution:
-    def maxSubarrayLength(self, nums, k):
+            j += 1
 
-        return result
+        return result
