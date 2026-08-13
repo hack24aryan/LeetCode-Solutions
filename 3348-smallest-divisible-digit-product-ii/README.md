@@ -1,6 +1,6 @@
 # 3348. Smallest Divisible Digit Product II
 
-🔴 Hard &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)
+🔴 Hard &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2097950866/)
 
 ---
 
