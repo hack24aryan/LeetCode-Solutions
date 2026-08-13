@@ -1,6 +1,6 @@
 # 2574. Left and Right Sum Differences
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2092965849/)
 
 ---
 
