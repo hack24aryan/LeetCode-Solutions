@@ -1,6 +1,6 @@
 # 1757. Recyclable and Low Fat Products
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/2097224309/)
 
 ---
 
@@ -67,7 +67,7 @@ Explanation: Only products 1 and 3 are both low fat and recyclable.
 
 | | |
 |---|---|
-| ⚡ **Runtime** | 672 ms |
+| ⚡ **Runtime** | 668 ms |
 | 💾 **Memory** | 0B |
 | 🔤 **Language** | MySQL |
 | 📅 **Submitted** | 07 Aug 2026 |
