@@ -1,6 +1,6 @@
 # 1140. Stone Game II
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game-ii/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/stone-game-ii/submissions/2100516124/)
 
 ---
 
