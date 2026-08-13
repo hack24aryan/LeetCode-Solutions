@@ -1,6 +1,6 @@
 # 33. Search in Rotated Sorted Array
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2087375967/)
 
 ---
 
@@ -54,7 +54,7 @@ Output: -1
 
 | | |
 |---|---|
-| ⚡ **Runtime** | 2 ms |
+| ⚡ **Runtime** | 0 ms |
 | 💾 **Memory** | 9.2 MB |
 | 🔤 **Language** | C |
 | 📅 **Submitted** | 30 Jul 2026 |
