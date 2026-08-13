@@ -1,6 +1,6 @@
 # 3310. Remove Methods From Project
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/remove-methods-from-project/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/remove-methods-from-project/submissions/2095685980/)
 
 ---
 
