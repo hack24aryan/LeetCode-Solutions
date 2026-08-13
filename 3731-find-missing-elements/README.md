@@ -1,6 +1,6 @@
 # 3731. Find Missing Elements
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-missing-elements/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/find-missing-elements/submissions/2094343042/)
 
 ---
 
