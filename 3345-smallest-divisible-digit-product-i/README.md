@@ -1,6 +1,6 @@
 # 3345. Smallest Divisible Digit Product I
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2096707849/)
 
 ---
 
