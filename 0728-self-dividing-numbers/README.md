@@ -1,6 +1,6 @@
 # 728. Self Dividing Numbers
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/self-dividing-numbers/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/self-dividing-numbers/submissions/2085986296/)
 
 ---
 
