@@ -1,6 +1,6 @@
 # 485. Max Consecutive Ones
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/max-consecutive-ones/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/max-consecutive-ones/submissions/2085909932/)
 
 ---
 
