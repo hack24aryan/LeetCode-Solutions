@@ -1,6 +1,6 @@
 # 3016. Minimum Number of Pushes to Type Word II
 
-🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)
+🟡 Medium &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2089058264/)
 
 ---
 
