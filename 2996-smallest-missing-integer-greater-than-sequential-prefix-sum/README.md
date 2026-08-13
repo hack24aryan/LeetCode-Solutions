@@ -1,6 +1,6 @@
 # 2996. Smallest Missing Integer Greater Than Sequential Prefix Sum
 
-🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/)
+🟢 Easy &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/submissions/2103193629/)
 
 ---
 
