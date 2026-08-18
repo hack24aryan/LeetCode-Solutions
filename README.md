@@ -7,10 +7,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-129-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-85_(66%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-33_(26%25)-ffc01e?style=for-the-badge" alt="Medium" />
-  <img src="https://img.shields.io/badge/Hard-11_(9%25)-ef4743?style=for-the-badge" alt="Hard" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-130-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-86_(66%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-33_(25%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/Hard-11_(8%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
 <p align="center">
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) |
-| 🧠 **Favorite / Top Topic** | **Array** (105 solved) |
+| 🧠 **Favorite / Top Topic** | **Array** (106 solved) |
 | 📅 **First Submission Recorded** | 23 Jan 2026 |
-| 🚀 **Latest Submission** | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) (17 Aug 2026) |
+| 🚀 **Latest Submission** | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) (18 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 85 | 66% |
-| 🟡 **Medium** | 33 | 26% |
-| 🔴 **Hard** | 11 | 9% |
-| 🏆 **Total** | **129** | **100%** |
+| 🟢 **Easy** | 86 | 66% |
+| 🟡 **Medium** | 33 | 25% |
+| 🔴 **Hard** | 11 | 8% |
+| 🏆 **Total** | **130** | **100%** |
 
 <br/>
 
@@ -64,7 +64,7 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 120 | 93% |
+| **C** | 121 | 93% |
 | **Python** | 4 | 3% |
 | **MySQL** | 2 | 2% |
 | **C++** | 2 | 2% |
@@ -76,11 +76,11 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
-| **Array** | 105 |
+| **Array** | 106 |
 | **Math** | 82 |
 | **String** | 32 |
+| **Hash Table** | 27 |
 | **Simulation** | 27 |
-| **Hash Table** | 26 |
 | **Sorting** | 25 |
 | **Binary Search** | 21 |
 | **Two Pointers** | 18 |
@@ -108,21 +108,21 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
-| 2 | [#2029 Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | `C` | ⚡ 4 ms | `18.1 MB` | 16 Aug 2026 |
-| 3 | [#3702 Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | `C` | ⚡ 0 ms | `22.7 MB` | 16 Aug 2026 |
-| 4 | [#3090 Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.1 MB` | 14 Aug 2026 |
-| 5 | [#2213 Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/submissions/2105860040/) | 🔴 Hard | `C` | ⚡ 123 ms | `78.7 MB` | 14 Aug 2026 |
-| 6 | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104696385/) | 🟡 Medium | `Python` | ⚡ 317 ms | `21.4 MB` | 13 Aug 2026 |
-| 7 | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/submissions/2103193629/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.5 MB` | 11 Aug 2026 |
-| 8 | [#1510 Stone Game IV](https://leetcode.com/problems/stone-game-iv/submissions/2101791231/) | 🔴 Hard | `C` | ⚡ 20 ms | `9.2 MB` | 10 Aug 2026 |
-| 9 | [#1140 Stone Game II](https://leetcode.com/problems/stone-game-ii/submissions/2100516124/) | 🟡 Medium | `C` | ⚡ 2 ms | `10.5 MB` | 09 Aug 2026 |
-| 10 | [#3302 Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/submissions/2099395398/) | 🟡 Medium | `C` | ⚡ 19 ms | `159.5 MB` | 08 Aug 2026 |
-| 11 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/2097224309/) | 🟢 Easy | `MySQL` | ⚡ 668 ms | `0B` | 07 Aug 2026 |
-| 12 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/submissions/2097230749/) | 🟢 Easy | `MySQL` | ⚡ 601 ms | `0B` | 07 Aug 2026 |
-| 13 | [#3348 Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2097950866/) | 🔴 Hard | `C++` | ⚡ 54 ms | `52.6 MB` | 07 Aug 2026 |
-| 14 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2096707849/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
-| 15 | [#3310 Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/submissions/2095685980/) | 🟡 Medium | `C++` | ⚡ 182 ms | `301.5 MB` | 05 Aug 2026 |
+| 1 | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.9 MB` | 18 Aug 2026 |
+| 2 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
+| 3 | [#2029 Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | `C` | ⚡ 4 ms | `18.1 MB` | 16 Aug 2026 |
+| 4 | [#3702 Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | `C` | ⚡ 0 ms | `22.7 MB` | 16 Aug 2026 |
+| 5 | [#3090 Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.1 MB` | 14 Aug 2026 |
+| 6 | [#2213 Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/submissions/2105860040/) | 🔴 Hard | `C` | ⚡ 123 ms | `78.7 MB` | 14 Aug 2026 |
+| 7 | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104696385/) | 🟡 Medium | `Python` | ⚡ 317 ms | `21.4 MB` | 13 Aug 2026 |
+| 8 | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/submissions/2103193629/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.5 MB` | 11 Aug 2026 |
+| 9 | [#1510 Stone Game IV](https://leetcode.com/problems/stone-game-iv/submissions/2101791231/) | 🔴 Hard | `C` | ⚡ 20 ms | `9.2 MB` | 10 Aug 2026 |
+| 10 | [#1140 Stone Game II](https://leetcode.com/problems/stone-game-ii/submissions/2100516124/) | 🟡 Medium | `C` | ⚡ 2 ms | `10.5 MB` | 09 Aug 2026 |
+| 11 | [#3302 Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/submissions/2099395398/) | 🟡 Medium | `C` | ⚡ 19 ms | `159.5 MB` | 08 Aug 2026 |
+| 12 | [#1757 Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/2097224309/) | 🟢 Easy | `MySQL` | ⚡ 668 ms | `0B` | 07 Aug 2026 |
+| 13 | [#584 Find Customer Referee](https://leetcode.com/problems/find-customer-referee/submissions/2097230749/) | 🟢 Easy | `MySQL` | ⚡ 601 ms | `0B` | 07 Aug 2026 |
+| 14 | [#3348 Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2097950866/) | 🔴 Hard | `C++` | ⚡ 54 ms | `52.6 MB` | 07 Aug 2026 |
+| 15 | [#3345 Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2096707849/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.2 MB` | 06 Aug 2026 |
 
 ---
 
@@ -132,6 +132,6 @@ Every accepted submission in this repository automatically includes:
 
 🚀 **Generated automatically by [LeetHub Tapash](https://github.com/topics/leethub-tapash)**  
 *Built with ❤️ for LeetCode developers.*  
-**Last Updated:** 17 Aug 2026
+**Last Updated:** 18 Aug 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
