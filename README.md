@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-137-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-93_(68%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-138-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-94_(68%25)-00b8a3?style=for-the-badge" alt="Easy" />
   <img src="https://img.shields.io/badge/Medium-33_(24%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-11_(8%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
@@ -43,7 +43,7 @@ Every accepted submission in this repository automatically includes:
 | 🏆 **First Hard Problem Solved** | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) |
 | 🧠 **Favorite / Top Topic** | **Array** (106 solved) |
 | 📅 **First Submission Recorded** | 23 Jan 2026 |
-| 🚀 **Latest Submission** | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) (19 Aug 2026) |
+| 🚀 **Latest Submission** | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) (19 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 93 | 68% |
+| 🟢 **Easy** | 94 | 68% |
 | 🟡 **Medium** | 33 | 24% |
 | 🔴 **Hard** | 11 | 8% |
-| 🏆 **Total** | **137** | **100%** |
+| 🏆 **Total** | **138** | **100%** |
 
 <br/>
 
@@ -65,7 +65,7 @@ Every accepted submission in this repository automatically includes:
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
 | **C** | 121 | 88% |
-| **MySQL** | 8 | 6% |
+| **MySQL** | 9 | 7% |
 | **Python** | 4 | 3% |
 | **C++** | 2 | 1% |
 | **1# Write your MySQL query statement below** | 1 | 1% |
@@ -89,8 +89,8 @@ Every accepted submission in this repository automatically includes:
 | **Greedy** | 13 |
 | **Bit Manipulation** | 12 |
 | **Number Theory** | 12 |
+| **Database** | 11 |
 | **Counting** | 10 |
-| **Database** | 10 |
 | **Prefix Sum** | 10 |
 | **Enumeration** | 7 |
 | **Game Theory** | 7 |
@@ -109,21 +109,21 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
-| 2 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
-| 3 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
-| 4 | [#1729 Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | `MySQL` | ⚡ 1170 ms | `0B` | 19 Aug 2026 |
-| 5 | [#1693 Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | `MySQL` | ⚡ 610 ms | `0B` | 19 Aug 2026 |
-| 6 | [#1683 Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | `MySQL` | ⚡ 661 ms | `0B` | 19 Aug 2026 |
-| 7 | [#1148 Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | `MySQL` | ⚡ 541 ms | `0B` | 19 Aug 2026 |
-| 8 | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.9 MB` | 18 Aug 2026 |
-| 9 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
-| 10 | [#2029 Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | `C` | ⚡ 4 ms | `18.1 MB` | 16 Aug 2026 |
-| 11 | [#3702 Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | `C` | ⚡ 0 ms | `22.7 MB` | 16 Aug 2026 |
-| 12 | [#3090 Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.1 MB` | 14 Aug 2026 |
-| 13 | [#2213 Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/submissions/2105860040/) | 🔴 Hard | `C` | ⚡ 123 ms | `78.7 MB` | 14 Aug 2026 |
-| 14 | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104696385/) | 🟡 Medium | `Python` | ⚡ 317 ms | `21.4 MB` | 13 Aug 2026 |
-| 15 | [#2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/submissions/2103193629/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.5 MB` | 11 Aug 2026 |
+| 1 | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `MySQL` | ⚡ 476 ms | `0B` | 19 Aug 2026 |
+| 2 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
+| 3 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
+| 4 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
+| 5 | [#1729 Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | `MySQL` | ⚡ 1170 ms | `0B` | 19 Aug 2026 |
+| 6 | [#1693 Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | `MySQL` | ⚡ 610 ms | `0B` | 19 Aug 2026 |
+| 7 | [#1683 Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | `MySQL` | ⚡ 661 ms | `0B` | 19 Aug 2026 |
+| 8 | [#1148 Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | `MySQL` | ⚡ 541 ms | `0B` | 19 Aug 2026 |
+| 9 | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.9 MB` | 18 Aug 2026 |
+| 10 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
+| 11 | [#2029 Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | `C` | ⚡ 4 ms | `18.1 MB` | 16 Aug 2026 |
+| 12 | [#3702 Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | 🟡 Medium | `C` | ⚡ 0 ms | `22.7 MB` | 16 Aug 2026 |
+| 13 | [#3090 Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | 🟢 Easy | `C` | ⚡ 0 ms | `9.1 MB` | 14 Aug 2026 |
+| 14 | [#2213 Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/submissions/2105860040/) | 🔴 Hard | `C` | ⚡ 123 ms | `78.7 MB` | 14 Aug 2026 |
+| 15 | [#2958 Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104696385/) | 🟡 Medium | `Python` | ⚡ 317 ms | `21.4 MB` | 13 Aug 2026 |
 
 ---
 
