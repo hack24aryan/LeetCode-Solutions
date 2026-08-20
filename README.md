@@ -7,8 +7,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-142-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-97_(68%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-143-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-98_(69%25)-00b8a3?style=for-the-badge" alt="Easy" />
   <img src="https://img.shields.io/badge/Medium-34_(24%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-11_(8%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
@@ -41,9 +41,9 @@ Every accepted submission in this repository automatically includes:
 | Achievement | Detail |
 | :--- | :--- |
 | 🏆 **First Hard Problem Solved** | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) |
-| 🧠 **Favorite / Top Topic** | **Array** (107 solved) |
+| 🧠 **Favorite / Top Topic** | **Array** (108 solved) |
 | 📅 **First Submission Recorded** | 23 Jan 2026 |
-| 🚀 **Latest Submission** | [#1741 Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) (20 Aug 2026) |
+| 🚀 **Latest Submission** | [#3069 Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) (20 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 97 | 68% |
+| 🟢 **Easy** | 98 | 69% |
 | 🟡 **Medium** | 34 | 24% |
 | 🔴 **Hard** | 11 | 8% |
-| 🏆 **Total** | **142** | **100%** |
+| 🏆 **Total** | **143** | **100%** |
 
 <br/>
 
@@ -64,7 +64,7 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 122 | 86% |
+| **C** | 123 | 86% |
 | **MySQL** | 12 | 8% |
 | **Python** | 4 | 3% |
 | **C++** | 2 | 1% |
@@ -77,11 +77,11 @@ Every accepted submission in this repository automatically includes:
 
 | Topic / Data Structure | Problems Solved |
 | :--- | :---: |
-| **Array** | 107 |
+| **Array** | 108 |
 | **Math** | 82 |
 | **String** | 32 |
 | **Hash Table** | 28 |
-| **Simulation** | 27 |
+| **Simulation** | 28 |
 | **Sorting** | 25 |
 | **Binary Search** | 21 |
 | **Two Pointers** | 18 |
@@ -109,21 +109,21 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#1741 Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | 🟢 Easy | `MySQL` | ⚡ 694 ms | `0B` | 20 Aug 2026 |
-| 2 | [#1386 Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | `C` | ⚡ 1440 ms | `18.5 MB` | 20 Aug 2026 |
-| 3 | [#1527 Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | 🟢 Easy | `MySQL` | ⚡ 522 ms | `0B` | 20 Aug 2026 |
-| 4 | [#627 Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | `MySQL` | ⚡ 318 ms | `0B` | 19 Aug 2026 |
-| 5 | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `MySQL` | ⚡ 476 ms | `0B` | 19 Aug 2026 |
-| 6 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
-| 7 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
-| 8 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
-| 9 | [#1729 Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | `MySQL` | ⚡ 1170 ms | `0B` | 19 Aug 2026 |
-| 10 | [#1693 Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | `MySQL` | ⚡ 610 ms | `0B` | 19 Aug 2026 |
-| 11 | [#1683 Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | `MySQL` | ⚡ 661 ms | `0B` | 19 Aug 2026 |
-| 12 | [#1148 Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | `MySQL` | ⚡ 541 ms | `0B` | 19 Aug 2026 |
-| 13 | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.9 MB` | 18 Aug 2026 |
-| 14 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
-| 15 | [#2029 Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | 🟡 Medium | `C` | ⚡ 4 ms | `18.1 MB` | 16 Aug 2026 |
+| 1 | [#3069 Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `12.2 MB` | 20 Aug 2026 |
+| 2 | [#1741 Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | 🟢 Easy | `MySQL` | ⚡ 694 ms | `0B` | 20 Aug 2026 |
+| 3 | [#1386 Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | `C` | ⚡ 1440 ms | `18.5 MB` | 20 Aug 2026 |
+| 4 | [#1527 Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | 🟢 Easy | `MySQL` | ⚡ 522 ms | `0B` | 20 Aug 2026 |
+| 5 | [#627 Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | `MySQL` | ⚡ 318 ms | `0B` | 19 Aug 2026 |
+| 6 | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `MySQL` | ⚡ 476 ms | `0B` | 19 Aug 2026 |
+| 7 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
+| 8 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
+| 9 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
+| 10 | [#1729 Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | `MySQL` | ⚡ 1170 ms | `0B` | 19 Aug 2026 |
+| 11 | [#1693 Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | `MySQL` | ⚡ 610 ms | `0B` | 19 Aug 2026 |
+| 12 | [#1683 Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | `MySQL` | ⚡ 661 ms | `0B` | 19 Aug 2026 |
+| 13 | [#1148 Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | `MySQL` | ⚡ 541 ms | `0B` | 19 Aug 2026 |
+| 14 | [#3471 Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | 🟢 Easy | `C` | ⚡ 0 ms | `10.9 MB` | 18 Aug 2026 |
+| 15 | [#1563 Stone Game V](https://leetcode.com/problems/stone-game-v/) | 🔴 Hard | `C` | ⚡ 562 ms | `10.2 MB` | 17 Aug 2026 |
 
 ---
 
