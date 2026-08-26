@@ -7,9 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-148-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy-100_(68%25)-00b8a3?style=for-the-badge" alt="Easy" />
-  <img src="https://img.shields.io/badge/Medium-35_(24%25)-ffc01e?style=for-the-badge" alt="Medium" />
+  <img src="https://img.shields.io/badge/LeetCode_Solved-149-00b8a3?style=for-the-badge&logo=leetcode&logoColor=white" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy-100_(67%25)-00b8a3?style=for-the-badge" alt="Easy" />
+  <img src="https://img.shields.io/badge/Medium-36_(24%25)-ffc01e?style=for-the-badge" alt="Medium" />
   <img src="https://img.shields.io/badge/Hard-13_(9%25)-ef4743?style=for-the-badge" alt="Hard" />
 </p>
 
@@ -43,7 +43,7 @@ Every accepted submission in this repository automatically includes:
 | 🏆 **First Hard Problem Solved** | [#1872 Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) |
 | 🧠 **Favorite / Top Topic** | **Array** (111 solved) |
 | 📅 **First Submission Recorded** | 23 Jan 2026 |
-| 🚀 **Latest Submission** | [#3718 Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) (25 Aug 2026) |
+| 🚀 **Latest Submission** | [#2904 Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) (27 Aug 2026) |
 
 ---
 
@@ -53,10 +53,10 @@ Every accepted submission in this repository automatically includes:
 
 | Difficulty | Solved Problems | Percentage |
 | :--- | :---: | :---: |
-| 🟢 **Easy** | 100 | 68% |
-| 🟡 **Medium** | 35 | 24% |
+| 🟢 **Easy** | 100 | 67% |
+| 🟡 **Medium** | 36 | 24% |
 | 🔴 **Hard** | 13 | 9% |
-| 🏆 **Total** | **148** | **100%** |
+| 🏆 **Total** | **149** | **100%** |
 
 <br/>
 
@@ -64,7 +64,7 @@ Every accepted submission in this repository automatically includes:
 
 | Programming Language | Solutions | Share |
 | :--- | :---: | :---: |
-| **C** | 128 | 86% |
+| **C** | 129 | 87% |
 | **MySQL** | 12 | 8% |
 | **Python** | 4 | 3% |
 | **C++** | 2 | 1% |
@@ -79,7 +79,7 @@ Every accepted submission in this repository automatically includes:
 | :--- | :---: |
 | **Array** | 111 |
 | **Math** | 86 |
-| **String** | 33 |
+| **String** | 34 |
 | **Hash Table** | 29 |
 | **Simulation** | 28 |
 | **Sorting** | 25 |
@@ -93,8 +93,8 @@ Every accepted submission in this repository automatically includes:
 | **Prefix Sum** | 11 |
 | **Counting** | 10 |
 | **Game Theory** | 9 |
+| **Sliding Window** | 8 |
 | **Enumeration** | 7 |
-| **Sliding Window** | 7 |
 | **Minimax** | 5 |
 | **Recursion** | 5 |
 | **Segment Tree** | 5 |
@@ -109,21 +109,21 @@ Every accepted submission in this repository automatically includes:
 
 | # | Title | Difficulty | Language | Runtime | Memory | Submitted |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| 1 | [#3718 Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | `C` | ⚡ 2 ms | `9.5 MB` | 25 Aug 2026 |
-| 2 | [#1872 Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | 🔴 Hard | `C` | ⚡ 123 ms | `23.7 MB` | 25 Aug 2026 |
-| 3 | [#1927 Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | `C` | ⚡ 0 ms | `10.1 MB` | 23 Aug 2026 |
-| 4 | [#3622 Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.6 MB` | 22 Aug 2026 |
-| 5 | [#3116 Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | 🔴 Hard | `C` | ⚡ 123 ms | `9.3 MB` | 22 Aug 2026 |
-| 6 | [#3069 Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `12.2 MB` | 20 Aug 2026 |
-| 7 | [#1741 Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | 🟢 Easy | `MySQL` | ⚡ 694 ms | `0B` | 20 Aug 2026 |
-| 8 | [#1386 Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | `C` | ⚡ 1440 ms | `18.5 MB` | 20 Aug 2026 |
-| 9 | [#1527 Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | 🟢 Easy | `MySQL` | ⚡ 522 ms | `0B` | 20 Aug 2026 |
-| 10 | [#627 Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | `MySQL` | ⚡ 318 ms | `0B` | 19 Aug 2026 |
-| 11 | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `MySQL` | ⚡ 476 ms | `0B` | 19 Aug 2026 |
-| 12 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
-| 13 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
-| 14 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
-| 15 | [#1729 Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | `MySQL` | ⚡ 1170 ms | `0B` | 19 Aug 2026 |
+| 1 | [#2904 Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 🟡 Medium | `C` | ⚡ 3 ms | `9.8 MB` | 27 Aug 2026 |
+| 2 | [#3718 Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | `C` | ⚡ 2 ms | `9.5 MB` | 25 Aug 2026 |
+| 3 | [#1872 Stone Game VIII](https://leetcode.com/problems/stone-game-viii/) | 🔴 Hard | `C` | ⚡ 123 ms | `23.7 MB` | 25 Aug 2026 |
+| 4 | [#1927 Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | `C` | ⚡ 0 ms | `10.1 MB` | 23 Aug 2026 |
+| 5 | [#3622 Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | 🟢 Easy | `C` | ⚡ 0 ms | `8.6 MB` | 22 Aug 2026 |
+| 6 | [#3116 Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | 🔴 Hard | `C` | ⚡ 123 ms | `9.3 MB` | 22 Aug 2026 |
+| 7 | [#3069 Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 🟢 Easy | `C` | ⚡ 0 ms | `12.2 MB` | 20 Aug 2026 |
+| 8 | [#1741 Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | 🟢 Easy | `MySQL` | ⚡ 694 ms | `0B` | 20 Aug 2026 |
+| 9 | [#1386 Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | 🟡 Medium | `C` | ⚡ 1440 ms | `18.5 MB` | 20 Aug 2026 |
+| 10 | [#1527 Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | 🟢 Easy | `MySQL` | ⚡ 522 ms | `0B` | 20 Aug 2026 |
+| 11 | [#627 Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/) | 🟢 Easy | `MySQL` | ⚡ 318 ms | `0B` | 19 Aug 2026 |
+| 12 | [#182 Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | `MySQL` | ⚡ 476 ms | `0B` | 19 Aug 2026 |
+| 13 | [#1873 Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) | 🟢 Easy | `1# Write your MySQL query statement below` | — | `—` | 19 Aug 2026 |
+| 14 | [#1050 Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | `MySQL` | ⚡ 421 ms | `0B` | 19 Aug 2026 |
+| 15 | [#586 Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | 🟢 Easy | `MySQL` | ⚡ 502 ms | `0B` | 19 Aug 2026 |
 
 ---
 
@@ -133,6 +133,6 @@ Every accepted submission in this repository automatically includes:
 
 🚀 **Generated automatically by [LeetHub Tapash](https://github.com/topics/leethub-tapash)**  
 *Built with ❤️ for LeetCode developers.*  
-**Last Updated:** 25 Aug 2026
+**Last Updated:** 27 Aug 2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
